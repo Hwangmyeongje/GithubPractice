@@ -1,5 +1,7 @@
-app ver 0.1
+app ver 0.4
 
-appname = "arom"
+appname = "atom"
 add login
 add logout
+add quit
+

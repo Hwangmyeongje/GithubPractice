@@ -2,3 +2,4 @@ app ver 0.1
 
 appname = "arom"
 add login
+add logout
